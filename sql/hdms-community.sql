@@ -123,7 +123,7 @@ CREATE TABLE `hdms_department` (
 
 LOCK TABLES `hdms_department` WRITE;
 /*!40000 ALTER TABLE `hdms_department` DISABLE KEYS */;
-INSERT INTO `hdms_department` VALUES (1,'00','hanweiyunkeji','瀚为云科技',1,'1,','hwykj',-1,2),(2,'12','yanfazhongxin','研发中心',12,'1,2,','yfzx',1,NULL),(3,'11','shichangbu','市场部',1,'1,11,','scb',1,NULL),(4,'003','huanandaqu','华南大区',2,'1,4,','hndq',1,NULL),(5,'0031','huadongdaqu','华东大区',NULL,'1,5,','hddq',1,NULL);
+INSERT INTO `hdms_department` VALUES (1,'00','hanweiyunkeji','边缘云科技',1,'1,','hwykj',-1,2),(2,'12','yanfazhongxin','研发中心',12,'1,2,','yfzx',1,NULL),(3,'11','shichangbu','市场部',1,'1,11,','scb',1,NULL),(4,'003','huanandaqu','华南大区',2,'1,4,','hndq',1,NULL),(5,'0031','huadongdaqu','华东大区',NULL,'1,5,','hddq',1,NULL);
 /*!40000 ALTER TABLE `hdms_department` ENABLE KEYS */;
 UNLOCK TABLES;
 
